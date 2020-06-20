@@ -1,2 +1,2 @@
 # mod1
-Test repo
+Test repo for submodule example
